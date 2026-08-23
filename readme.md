@@ -1,0 +1,1 @@
+TBD explanation of the goals of the playground (basically practice sat solver usage, maybe make a pathway assay / min unsat tool)
