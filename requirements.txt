@@ -1,3 +1,4 @@
 z3-solver
 minizinc
-lpsolvers[open_source_solvers]
+pyomo
+pymc
